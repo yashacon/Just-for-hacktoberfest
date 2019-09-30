@@ -1,2 +1,5 @@
 # Just-for-hacktoberfest
-Contribute here for hacktoberfest!
+
+any one can contribute to this repo
+
+
